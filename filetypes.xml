@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc,ctp;" />
     <extensionMap>
-      <mapping pattern="3jpg" type="Images" />
       <mapping pattern="2jpg" type="Images" />
       <mapping pattern="2qjpg" type="Images" />
+      <mapping pattern="3jpg" type="Images" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern=".htaccass" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
