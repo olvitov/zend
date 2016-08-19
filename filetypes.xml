@@ -7,6 +7,7 @@
       <mapping pattern="3jpg" type="Images" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".htaccass" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="Twig" />
     </extensionMap>
   </component>
 </application>
