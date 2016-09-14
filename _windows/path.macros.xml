@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="Php" value="C:/server/modules/php/PHP-7-x64" />
+  </component>
+</application>
